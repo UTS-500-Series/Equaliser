@@ -1,0 +1,15 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Users\ebul0\OneDrive\Desktop\Subjects\Applications B\BandA.net
+Start Time: Sat Aug 29 19:10:47 2026
+C:\Users\ebul0\OneDrive\Desktop\Subjects\Applications B\BandA.net(3): This sub-circuit name is not defined.
+X§U1 0 N008 NC_01 NC_02 N006 OPA164 ;§pnba +)-)V+)V-)v
+                            ^^^^^^^
+C:\Users\ebul0\OneDrive\Desktop\Subjects\Applications B\BandA.net(4): This sub-circuit name is not defined.
+X§U2 N007 N002 NC_03 NC_04 N004 OPA164 ;§pnba +)-)V+)V-)v
+                               ^^^^^^^
+C:\Users\ebul0\OneDrive\Desktop\Subjects\Applications B\BandA.net(5): This sub-circuit name is not defined.
+X§U3 0 N009 NC_05 NC_06 N003 OPA164 ;§pnba +)-)V+)V-)v
+                            ^^^^^^^
+C:\Users\ebul0\OneDrive\Desktop\Subjects\Applications B\BandA.net(6): This sub-circuit name is not defined.
+X§U4 N012 N019 NC_07 NC_08 N017 OPA164 ;§pnba +)-)V+)V-)v
+                               ^^^^^^^
