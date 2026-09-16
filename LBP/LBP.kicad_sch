@@ -1220,6 +1220,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "TEMP"
+		(exclude_from_sim no)
+		(at 151.638 81.534 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "e9be30c3-86d2-449e-99af-89f14b722f7e")
+	)
 	(junction
 		(at 72.39 40.64)
 		(diameter 0)
@@ -3678,6 +3688,92 @@
 			(project "LBP"
 				(path "/e9c605b8-0261-4625-b036-2a547cf6d32d"
 					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:OPA1641")
+		(at 165.1 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7231fe95-b43d-4248-bb76-8af379f6e980")
+		(property "Reference" "U5"
+			(at 176.53 74.8598 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "OPA1641"
+			(at 176.53 77.3998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa1641.pdf"
+			(at 165.1 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "JFET input, ultralow distortion, low-noise operational amplifier, SOIC-8/VSSOP-8"
+			(at 165.1 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "14521d0a-124d-4c7f-ba3f-387dfd6bef42")
+		)
+		(pin "3"
+			(uuid "f02185fe-996a-4aec-9a06-71bb10533bab")
+		)
+		(pin "7"
+			(uuid "fa10a97e-e0d3-46cd-9957-a09c0eb6c7ee")
+		)
+		(pin "1"
+			(uuid "5a4e6e78-6cba-4990-8ec4-6267c6526d83")
+		)
+		(pin "5"
+			(uuid "66b980a0-aec4-44a4-8788-fa65e3523242")
+		)
+		(pin "8"
+			(uuid "33608a50-a639-4201-8b0a-a9a366758cad")
+		)
+		(pin "4"
+			(uuid "e9646d8d-aa1e-477f-9e5f-854ba7931538")
+		)
+		(pin "6"
+			(uuid "9ea744f4-95d6-4ddb-add8-1429fe044762")
+		)
+		(instances
+			(project "LBP"
+				(path "/e9c605b8-0261-4625-b036-2a547cf6d32d"
+					(reference "U5")
 					(unit 1)
 				)
 			)
