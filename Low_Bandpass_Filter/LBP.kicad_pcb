@@ -2067,6 +2067,79 @@
 			)
 		)
 	)
+	(footprint "OPA1644:SOP65P640X120-14N"
+		(layer "F.Cu")
+		(uuid "c00857dd-a967-4ecd-9965-7159689b0835")
+		(at -44.696505 -94.017922)
+		(property "Reference" "U1"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "5360d03a-e560-433d-89d2-bb3b1ed5a3f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "OPA1641"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "9e0960bf-5275-4797-8e17-59a0f70d3724")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa1641.pdf"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ff72470-b491-4b47-ae47-6f165a5649a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "JFET input, ultralow distortion, low-noise operational amplifier, SOIC-8/VSSOP-8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d09ece05-81a6-4e63-9bf4-9703a421d9d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* VSSOP*3x3mm*P0.65mm*")
+		(path "/385f67ab-5dd0-4bf9-868e-c18ee0c3c3dc")
+		(sheetname "/")
+		(sheetfile "LBP.kicad_sch")
+		(attr smd)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "b30fba54-a7dc-4f4b-be53-74bdd12c7a14")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "ec72d727-2f40-4853-92b5-68b6555441a6")
