@@ -1,4 +1,4 @@
-27220807452423216
+27224388072471490
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -74738,8 +74738,22 @@ net tie
 0
 4
 4
+OPA1641
+OPA1641
+D0008A-111
+Integrated Circuit
+0
+8
+8
 OPA1644
 SOP65P640X120-14N
+
+
+0
+0
+0
+OPA1644
+Untitled
 
 
 0

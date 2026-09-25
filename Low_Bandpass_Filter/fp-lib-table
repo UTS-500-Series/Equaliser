@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OPA1641")(type "KiCad")(uri "${KIPRJMOD}/OPA1641.pretty")(options "")(descr ""))
+)
