@@ -1012,17 +1012,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 15.24) (xy 96.52 15.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "219586af-4ccc-4072-b3bc-2c2dbdd610b2")
-	)
-	(wire
-		(pts
-			(xy 55.88 22.86) (xy 55.88 29.21)
+			(xy 55.88 20.32) (xy 55.88 29.21)
 		)
 		(stroke
 			(width 0)
@@ -1039,16 +1029,6 @@
 			(type default)
 		)
 		(uuid "415114e9-5fe2-47ef-b482-9b6d9d11d209")
-	)
-	(wire
-		(pts
-			(xy 96.52 15.24) (xy 96.52 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d573f98-775b-4741-a2da-28efa315beac")
 	)
 	(wire
 		(pts
@@ -1069,6 +1049,16 @@
 			(type default)
 		)
 		(uuid "a64e8b9d-1c6e-4d6a-a632-5955f64ade30")
+	)
+	(wire
+		(pts
+			(xy 55.88 20.32) (xy 68.58 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad5b2698-4f88-4df5-a5cd-a42c8506efce")
 	)
 	(wire
 		(pts
@@ -1099,6 +1089,26 @@
 			(type default)
 		)
 		(uuid "c0fc9f5d-028e-4ca1-86f7-0cc70f05042a")
+	)
+	(wire
+		(pts
+			(xy 96.52 20.32) (xy 96.52 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd94f11c-5195-46ed-a164-c4a550a817a0")
+	)
+	(wire
+		(pts
+			(xy 76.2 20.32) (xy 96.52 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf54d91f-5ec2-451c-8648-a788bbcd6113")
 	)
 	(wire
 		(pts
@@ -1279,7 +1289,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 55.88 19.05 0)
+		(at 72.39 20.32 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1288,25 +1298,23 @@
 		(fields_autoplaced yes)
 		(uuid "71cf2019-7ade-4c7c-9893-193292286e4e")
 		(property "Reference" "C1"
-			(at 59.69 17.7799 0)
+			(at 72.39 12.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "20n"
-			(at 59.69 20.3199 0)
+			(at 72.39 15.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 56.8452 22.86 0)
+			(at 76.2 19.3548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1315,7 +1323,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 19.05 0)
+			(at 72.39 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1324,7 +1332,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 55.88 19.05 0)
+			(at 72.39 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1339,7 +1347,7 @@
 			(uuid "4e228856-0f2d-43c9-a1d9-9cbe918e7c4b")
 		)
 		(instances
-			(project ""
+			(project "LPF"
 				(path "/1e068942-4d60-4b61-a79e-d88caf00654c"
 					(reference "C1")
 					(unit 1)
@@ -1627,7 +1635,7 @@
 		(dnp no)
 		(uuid "cf320b3f-2ae3-4856-a66c-4d88d54dd1f8")
 		(property "Reference" "U1"
-			(at 91.948 28.702 0)
+			(at 89.662 31.496 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1635,7 +1643,7 @@
 			)
 		)
 		(property "Value" "OPA1641"
-			(at 91.948 31.242 0)
+			(at 88.392 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
