@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LPF.kicad_pro",
+    "filename": "variablegain.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -597,14 +597,6 @@
       "version": 1
     },
     "net_format_name": "",
-    "ngspice": {
-      "fix_include_paths": true,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 4,
-      "workbook_filename": ""
-    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
@@ -619,7 +611,7 @@
   },
   "sheets": [
     [
-      "1e068942-4d60-4b61-a79e-d88caf00654c",
+      "986aa920-c333-4238-af13-d0bfcf6b0b85",
       "Root"
     ]
   ],
