@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'OPA1644AIPWR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "OPA1644AIPWR" (!) = "", "SOP65P640X120-14N", "Small Outline Packages", "595-OPA1644AIPWR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/OPA1644AIPWR?qs=%2Fqzd9s%252BcLd4iHZGLZZVdLg%3D%3D", "OPA1644AIPWR", "https://www.arrow.com/en/products/opa1644aipwr/texas-instruments?region=nac", "Audio Amp Speaker 4-CH Stereo Class-AB 14-Pin TSSOP T/R", "https://www.ti.com/lit/gpn/opa1644", "1.2 mm"
+END_PART
+
+END.

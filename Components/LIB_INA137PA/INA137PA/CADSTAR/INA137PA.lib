@@ -1,0 +1,18 @@
+.INA137PA :1 ;Audio Differential Line Receivers, +-6dB (G=1/2 or 2)
+DIP794W53P254L959H508Q8N
+*STM IC
+*NGS
+*PLB 1="REF" 2="-IN" 3="+IN" 4="V-" 5="SENSE" 6="OUTPUT" 7="V+" 8="NC"
+*MXP 8
+*DFN INA137PA
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (INA137PA)
+~!Mouser Part Number (595-INA137PA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA137PA?qs=VBduBm9rCJR0Awr2sjGHZA%3D%3D)
+~!Arrow Part Number (INA137PA)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ina137pa/texas-instruments?region=nac)
+~!Link Datasheet (https://www.ti.com/lit/gpn/ina137)
+~!Height (5.08mm)
+~!3D_Model (INA137PA)
+INA137PA
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

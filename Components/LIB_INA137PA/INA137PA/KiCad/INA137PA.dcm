@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA137PA
+D Audio Differential Line Receivers, +-6dB (G=1/2 or 2)
+K
+F https://www.ti.com/lit/gpn/ina137
+$ENDCMP
+#
+#End Doc Library

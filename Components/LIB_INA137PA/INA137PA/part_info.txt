@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=INA137PA
+PartCategory=Integrated Circuit
+PackageCategory=Dual-In-Line Packages
+PinCount=8
+Version=4.4
+Released=2017-01-12 12:59:53
+Downloaded=2026-10-01 13:32:47
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'INA137PA'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "INA137PA" (!) = "", "DIP794W53P254L959H508Q8N", "Dual-In-Line Packages", "595-INA137PA", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA137PA?qs=VBduBm9rCJR0Awr2sjGHZA%3D%3D", "INA137PA", "https://www.arrow.com/en/products/ina137pa/texas-instruments?region=nac", "Audio Differential Line Receivers, +-6dB (G=1/2 or 2)", "https://www.ti.com/lit/gpn/ina137", "5.08 mm"
+END_PART
+
+END.
