@@ -10443,7 +10443,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Single_Horizontal"
 			(at 289.56 83.82 0)
 			(effects
 				(font
@@ -10998,7 +10998,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 110.49 144.018 90)
 			(effects
 				(font
@@ -11066,7 +11066,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 240.03 212.852 90)
 			(effects
 				(font
@@ -11643,7 +11643,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 61.468 86.36 90)
 			(effects
 				(font
@@ -12224,7 +12224,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 61.468 181.61 90)
 			(effects
 				(font
@@ -12292,7 +12292,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 132.08 144.018 90)
 			(effects
 				(font
@@ -12861,7 +12861,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Single_Horizontal"
 			(at 212.09 200.66 0)
 			(effects
 				(font
@@ -13133,7 +13133,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 81.788 246.38 90)
 			(effects
 				(font
@@ -13269,7 +13269,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Single_Horizontal"
 			(at 162.56 82.55 0)
 			(effects
 				(font
@@ -13409,12 +13409,13 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Single_Horizontal"
 			(at 279.4 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
@@ -13479,7 +13480,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Dual_Horizontal"
 			(at 119.38 142.24 0)
 			(effects
 				(font
@@ -13706,7 +13707,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 155.702 160.02 90)
 			(effects
 				(font
@@ -13844,12 +13845,13 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Single_Horizontal"
 			(at 153.67 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
@@ -13916,7 +13918,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Dual_Horizontal"
 			(at 228.6 46.99 0)
 			(effects
 				(font
@@ -14064,7 +14066,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 115.57 207.772 90)
 			(effects
 				(font
@@ -14281,7 +14283,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 281.94 156.972 90)
 			(effects
 				(font
@@ -14482,7 +14484,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 120.142 215.9 90)
 			(effects
 				(font
@@ -14725,6 +14727,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 224.79 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5306a602-b8d9-438b-a931-273fdb407ccf")
+		(property "Reference" "R46"
+			(at 224.79 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "4.7K"
+			(at 224.79 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 224.79 146.558 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 224.79 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 224.79 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "247d707f-386f-4027-bd84-9f3a3d0a1e77")
+		)
+		(pin "1"
+			(uuid "10dac6ff-44b6-473d-a37a-082df6be56ef")
+		)
+		(instances
+			(project "Combined_EQ"
+				(path "/0cbb3bbb-8297-40d4-b3a9-e92b3d8d375c"
+					(reference "R46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 128.27 209.55 90)
 		(unit 1)
@@ -14819,7 +14889,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Dual_Horizontal"
 			(at 156.21 200.66 0)
 			(effects
 				(font
@@ -15034,7 +15104,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Dual_Horizontal"
 			(at 317.5 52.07 0)
 			(effects
 				(font
@@ -15083,6 +15153,74 @@
 			(project "Combined_EQ"
 				(path "/0cbb3bbb-8297-40d4-b3a9-e92b3d8d375c"
 					(reference "RV6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 240.03 158.75 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5e913863-c404-4f5f-91bb-7015c34c3b3c")
+		(property "Reference" "R52"
+			(at 240.03 152.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "16K"
+			(at 240.03 158.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 240.03 156.972 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 240.03 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 240.03 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e4d8b029-222f-4d9f-9059-c5d142c70eb7")
+		)
+		(pin "2"
+			(uuid "3afb52cd-f761-466e-bb90-19f763174edb")
+		)
+		(instances
+			(project "Combined_EQ"
+				(path "/0cbb3bbb-8297-40d4-b3a9-e92b3d8d375c"
+					(reference "R52")
 					(unit 1)
 				)
 			)
@@ -15221,74 +15359,6 @@
 			(project "Combined_EQ"
 				(path "/0cbb3bbb-8297-40d4-b3a9-e92b3d8d375c"
 					(reference "C35")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 200.66 144.78 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "62ac951f-d2e8-40e1-943d-63384f45f68e")
-		(property "Reference" "R45"
-			(at 200.66 138.43 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "4.7K"
-			(at 200.66 144.78 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 200.66 146.558 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 200.66 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 200.66 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d7dc03d1-337b-4fae-a08a-5cbf108605bf")
-		)
-		(pin "2"
-			(uuid "7253e031-f948-4700-89e5-887fb16b3802")
-		)
-		(instances
-			(project "Combined_EQ"
-				(path "/0cbb3bbb-8297-40d4-b3a9-e92b3d8d375c"
-					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -15711,7 +15781,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 165.1 155.448 90)
 			(effects
 				(font
@@ -15779,12 +15849,13 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 219.71 123.952 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
@@ -15979,7 +16050,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 224.79 202.438 90)
 			(effects
 				(font
@@ -16341,7 +16412,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_CK_JS202011CQN_DPDT_Straight"
 			(at 359.41 207.01 0)
 			(effects
 				(font
@@ -16597,6 +16668,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 233.68 251.46 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "82aec040-3d18-4149-bbe1-0a6e4bc8d093")
+		(property "Reference" "R50"
+			(at 233.68 245.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "10K"
+			(at 233.68 251.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 233.68 249.682 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 233.68 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 233.68 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "450da983-5185-4f45-adca-db6d67ca4b9d")
+		)
+		(pin "2"
+			(uuid "bbdecddd-df6c-4005-a547-68997c30c620")
+		)
+		(instances
+			(project "Combined_EQ"
+				(path "/0cbb3bbb-8297-40d4-b3a9-e92b3d8d375c"
+					(reference "R50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Potentiometer_Dual_Separate")
 		(at 190.5 50.8 0)
 		(unit 1)
@@ -16624,7 +16763,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Dual_Horizontal"
 			(at 190.5 50.8 0)
 			(effects
 				(font
@@ -17221,7 +17360,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 200.66 202.438 90)
 			(effects
 				(font
@@ -17329,6 +17468,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 200.66 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8e758286-b69d-48f0-9860-ffd96addb97b")
+		(property "Reference" "R45"
+			(at 200.66 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "4.7K"
+			(at 200.66 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 200.66 146.558 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 200.66 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dc773fe0-a39b-40c8-ab8c-147a8f25de4a")
+		)
+		(pin "2"
+			(uuid "d725f4e8-aebb-4c55-9d80-41a060d8de02")
+		)
+		(instances
+			(project "Combined_EQ"
+				(path "/0cbb3bbb-8297-40d4-b3a9-e92b3d8d375c"
+					(reference "R45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Potentiometer")
 		(at 212.09 144.78 270)
 		(unit 1)
@@ -17356,7 +17563,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Single_Horizontal"
 			(at 212.09 144.78 0)
 			(effects
 				(font
@@ -17429,7 +17636,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 143.002 224.79 90)
 			(effects
 				(font
@@ -17497,7 +17704,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Dual_Horizontal"
 			(at 140.97 142.24 0)
 			(effects
 				(font
@@ -17614,74 +17821,6 @@
 			(project "Combined_EQ"
 				(path "/0cbb3bbb-8297-40d4-b3a9-e92b3d8d375c"
 					(reference "C23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 233.68 251.46 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9155fc44-fce0-4fc1-a1b7-943f11c51331")
-		(property "Reference" "R50"
-			(at 233.68 245.11 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "10K"
-			(at 233.68 251.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 233.68 249.682 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 233.68 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 233.68 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d9926845-472f-43a1-a9a4-b7b9bb3b1464")
-		)
-		(pin "2"
-			(uuid "273cf091-169d-441d-bd2b-81ab542f763d")
-		)
-		(instances
-			(project "Combined_EQ"
-				(path "/0cbb3bbb-8297-40d4-b3a9-e92b3d8d375c"
-					(reference "R50")
 					(unit 1)
 				)
 			)
@@ -18349,7 +18488,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 144.78 202.438 90)
 			(effects
 				(font
@@ -19064,74 +19203,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 224.79 144.78 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ad020028-4ae5-4159-bbc9-187eae1b70fa")
-		(property "Reference" "R46"
-			(at 224.79 138.43 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "4.7K"
-			(at 224.79 144.78 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 224.79 146.558 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 224.79 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 224.79 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5306be2a-321b-4ee2-8c33-d023f7151f5a")
-		)
-		(pin "1"
-			(uuid "85568a9b-a0cf-4c15-a819-aff68e47770e")
-		)
-		(instances
-			(project "Combined_EQ"
-				(path "/0cbb3bbb-8297-40d4-b3a9-e92b3d8d375c"
-					(reference "R46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 187.96 34.29 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19289,7 +19360,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 153.67 221.488 90)
 			(effects
 				(font
@@ -19695,7 +19766,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 203.2 247.142 90)
 			(effects
 				(font
@@ -20117,7 +20188,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Dual_Horizontal"
 			(at 355.6 48.26 0)
 			(effects
 				(font
@@ -20299,6 +20370,74 @@
 			(project "Combined_EQ"
 				(path "/0cbb3bbb-8297-40d4-b3a9-e92b3d8d375c"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 219.71 243.84 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cf38abc3-74ae-4bdd-b527-33ba3c2385cd")
+		(property "Reference" "R49"
+			(at 219.71 237.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "10K"
+			(at 219.71 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 219.71 242.062 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 219.71 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 219.71 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b041d220-96b8-4a4c-b1b4-294dc285b58d")
+		)
+		(pin "2"
+			(uuid "de6c3d68-0b1d-4b80-98a0-ee5c46963194")
+		)
+		(instances
+			(project "Combined_EQ"
+				(path "/0cbb3bbb-8297-40d4-b3a9-e92b3d8d375c"
+					(reference "R49")
 					(unit 1)
 				)
 			)
@@ -20672,7 +20811,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 61.468 67.31 90)
 			(effects
 				(font
@@ -20805,7 +20944,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 35.56 80.518 90)
 			(effects
 				(font
@@ -21356,7 +21495,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Dual_Horizontal"
 			(at 156.21 191.77 0)
 			(effects
 				(font
@@ -22068,73 +22207,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 240.03 158.75 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f0398015-e6df-4bc2-8ca9-bd1dff48b78e")
-		(property "Reference" "R52"
-			(at 240.03 152.4 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "16K"
-			(at 240.03 158.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 240.03 156.972 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 240.03 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 240.03 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "87250def-4736-49ec-9d75-7f9b0509b7bd")
-		)
-		(pin "2"
-			(uuid "a92ccbdf-8cca-4df8-b2af-275951969cc3")
-		)
-		(instances
-			(project "Combined_EQ"
-				(path "/0cbb3bbb-8297-40d4-b3a9-e92b3d8d375c"
-					(reference "R52")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 184.15 96.52 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22292,12 +22364,13 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 219.71 230.632 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
@@ -22499,7 +22572,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 35.56 61.468 90)
 			(effects
 				(font
@@ -22678,74 +22751,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 219.71 243.84 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f7c7c95f-5afd-4aaa-ae1b-65c70f8c4ef5")
-		(property "Reference" "R49"
-			(at 219.71 237.49 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "10K"
-			(at 219.71 243.84 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 219.71 242.062 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 219.71 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 219.71 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "22d90f49-5ab4-4809-9a29-a8551e85d5f9")
-		)
-		(pin "2"
-			(uuid "6ec524bf-23bb-49ad-88f7-ee2300ef93d2")
-		)
-		(instances
-			(project "Combined_EQ"
-				(path "/0cbb3bbb-8297-40d4-b3a9-e92b3d8d375c"
-					(reference "R49")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 59.69 246.38 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22770,7 +22775,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 61.468 246.38 90)
 			(effects
 				(font
@@ -23172,7 +23177,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 138.43 193.548 90)
 			(effects
 				(font
