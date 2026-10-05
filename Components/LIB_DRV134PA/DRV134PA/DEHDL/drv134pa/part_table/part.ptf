@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DRV134PA'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "DRV134PA" (!) = "", "DIP794W53P254L959H508Q8N", "Dual-In-Line Packages", "595-DRV134PA", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV134PA?qs=VBduBm9rCJQB2pI5Sv36eQ%3D%3D", "DRV134PA", "https://www.arrow.com/en/products/drv134pa/texas-instruments.html?utm_currency=USD&region=nac", "DRV134PA, Audio Amplifier 46dB +85 C 8-Pin PDIP", "http://www.ti.com/lit/ds/symlink/drv134.pdf", "5.08 mm"
+END_PART
+
+END.

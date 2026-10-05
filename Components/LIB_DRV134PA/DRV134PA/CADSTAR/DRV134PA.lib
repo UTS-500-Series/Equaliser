@@ -1,0 +1,18 @@
+.DRV134PA :1 ;DRV134PA, Audio Amplifier 46dB +85 C 8-Pin PDIP
+DIP794W53P254L959H508Q8N
+*STM IC
+*NGS
+*PLB 1="-VO" 2="-SENSE" 3="GND" 4="V IN" 5="V-" 6="V+" 7="+SENSE" 8="+VO"
+*MXP 8
+*DFN DRV134PA
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (DRV134PA)
+~!Mouser Part Number (595-DRV134PA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV134PA?qs=VBduBm9rCJQB2pI5Sv36eQ%3D%3D)
+~!Arrow Part Number (DRV134PA)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/drv134pa/texas-instruments.html?utm_currency=USD&region=nac)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/drv134.pdf)
+~!Height (5.08mm)
+~!3D_Model (DRV134PA)
+DRV134PA
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

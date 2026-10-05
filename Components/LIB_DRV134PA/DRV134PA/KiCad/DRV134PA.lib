@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DRV134PA
+#/181333/2042508/2.50/8/3/Integrated Circuit
+DEF DRV134PA IC 0 30 Y Y 1 F N
+F0 "IC" 1250 300 50 H V L CNN
+F1 "DRV134PA" 1250 200 50 H V L CNN
+F2 "DIP794W53P254L959H508Q8N" 1250 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/drv134.pdf" 1250 0 50 H I L CNN
+F4 "DRV134PA, Audio Amplifier 46dB +85 C 8-Pin PDIP" 1250 -100 50 H I L CNN "Description"
+F5 "5.08" 1250 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "DRV134PA" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-DRV134PA" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV134PA?qs=VBduBm9rCJQB2pI5Sv36eQ%3D%3D" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "DRV134PA" 1250 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/drv134pa/texas-instruments.html?utm_currency=USD&region=nac" 1250 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X -VO 1 0 0 200 R 50 50 0 0 P
+X -SENSE 2 0 -100 200 R 50 50 0 0 P
+X GND 3 0 -200 200 R 50 50 0 0 P
+X V_IN 4 0 -300 200 R 50 50 0 0 P
+X +VO 8 1400 0 200 L 50 50 0 0 P
+X +SENSE 7 1400 -100 200 L 50 50 0 0 P
+X V+ 6 1400 -200 200 L 50 50 0 0 P
+X V- 5 1400 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

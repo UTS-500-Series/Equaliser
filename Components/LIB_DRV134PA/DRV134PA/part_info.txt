@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DRV134PA
+PartCategory=Integrated Circuit
+PackageCategory=Dual-In-Line Packages
+PinCount=8
+Version=3.4
+Released=2015-06-24 00:00:00
+Downloaded=2026-10-05 09:17:16
+3D=Y

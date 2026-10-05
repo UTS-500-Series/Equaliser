@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV134PA
+D DRV134PA, Audio Amplifier 46dB +85 C 8-Pin PDIP
+K
+F http://www.ti.com/lit/ds/symlink/drv134.pdf
+$ENDCMP
+#
+#End Doc Library
