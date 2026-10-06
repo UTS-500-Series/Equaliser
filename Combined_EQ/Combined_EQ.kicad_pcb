@@ -2858,7 +2858,7 @@
 		(property "Reference" "C18"
 			(at 2.5 -2.5 0)
 			(layer "F.SilkS")
-			(uuid "335c2fcf-3263-47bc-9ea8-b1c68d52d2c0")
+			(uuid "14ad6afe-fa40-481f-9f15-b665fe31db25")
 			(effects
 				(font
 					(size 1 1)
@@ -2869,7 +2869,7 @@
 		(property "Value" "100u"
 			(at 2.5 2.5 0)
 			(layer "F.Fab")
-			(uuid "af4256a0-d57c-490f-b234-6787a938605f")
+			(uuid "21de7270-b79b-49c6-9aee-637a3cece717")
 			(effects
 				(font
 					(size 1 1)
@@ -2881,7 +2881,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "30a5d9f0-c25f-4e18-8fbe-fab065167ad3")
+			(uuid "9380a479-0b82-445b-b282-4fc0a98ab806")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2893,7 +2893,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0d65db03-9258-44f2-a1d2-f4647d3aea6c")
+			(uuid "fb8ce217-6a9f-4b38-b102-3850fcb20d75")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5410,7 +5410,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "1fd24c53-1458-459a-b35d-90521e0e51f3")
-		(at 87.82 40.9)
+		(at 84.56 89.5 180)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R38"
@@ -5460,7 +5460,7 @@
 			)
 		)
 		(property "Field5" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -5478,16 +5478,6 @@
 		(sheetfile "Combined_EQ.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 1.04 0)
-			(end 1.81 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "d4f2b07d-42de-4c3a-8c47-876780dfcf00")
-		)
-		(fp_line
 			(start 9.12 0)
 			(end 8.35 0)
 			(stroke
@@ -5496,6 +5486,16 @@
 			)
 			(layer "F.SilkS")
 			(uuid "9220e7bf-c447-4fea-b825-1a6b7dfe4431")
+		)
+		(fp_line
+			(start 1.04 0)
+			(end 1.81 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d4f2b07d-42de-4c3a-8c47-876780dfcf00")
 		)
 		(fp_rect
 			(start 1.81 -1.37)
@@ -5520,16 +5520,6 @@
 			(uuid "8e21e39b-8ce9-4b41-bf9e-82d444736001")
 		)
 		(fp_line
-			(start 0 0)
-			(end 1.93 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "61d5d635-1f65-4cce-ae72-f0d34ba7e8a5")
-		)
-		(fp_line
 			(start 10.16 0)
 			(end 8.23 0)
 			(stroke
@@ -5538,6 +5528,16 @@
 			)
 			(layer "F.Fab")
 			(uuid "829dfb20-4fdb-4bb4-8484-49909ae9d892")
+		)
+		(fp_line
+			(start 0 0)
+			(end 1.93 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "61d5d635-1f65-4cce-ae72-f0d34ba7e8a5")
 		)
 		(fp_rect
 			(start 1.93 -1.25)
@@ -5562,7 +5562,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0)
+			(at 0 0 180)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -5572,7 +5572,7 @@
 			(uuid "2464ce58-6bce-46cf-8095-ae6cc154d31f")
 		)
 		(pad "2" thru_hole circle
-			(at 10.16 0)
+			(at 10.16 0 180)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -6843,7 +6843,7 @@
 		(property "Reference" "C20"
 			(at 2.5 -2.5 0)
 			(layer "F.SilkS")
-			(uuid "dacb7885-5309-4a66-ba32-de4a4397e045")
+			(uuid "40a6445e-ea78-445e-bc84-a62e0d616c97")
 			(effects
 				(font
 					(size 1 1)
@@ -6854,7 +6854,7 @@
 		(property "Value" "100u"
 			(at 2.5 2.5 0)
 			(layer "F.Fab")
-			(uuid "bfd502da-cd29-4d4a-8963-307274e0ae3c")
+			(uuid "52414c47-9e3b-4563-8d75-4972a4c0aea4")
 			(effects
 				(font
 					(size 1 1)
@@ -6866,7 +6866,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "16bc0e4f-e19b-4897-a494-6c7be5aa223a")
+			(uuid "2861b6e3-c677-4b8e-9584-49837f0492d6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6878,7 +6878,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "20830a61-4fcf-4fa2-8968-dddf9b7e549b")
+			(uuid "f8025b05-b839-4ab7-b9df-155733a61312")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11917,7 +11917,7 @@
 		(property "Reference" "C19"
 			(at 2.5 -2.5 0)
 			(layer "F.SilkS")
-			(uuid "a6e8191a-cf06-4b50-b129-6e2da3cd04e3")
+			(uuid "7c563588-d12d-459f-a770-2389213da85e")
 			(effects
 				(font
 					(size 1 1)
@@ -11928,7 +11928,7 @@
 		(property "Value" "100n"
 			(at 2.5 2.5 0)
 			(layer "F.Fab")
-			(uuid "8c17bf85-01b6-463b-b6bf-cf5c4c941cd4")
+			(uuid "af733705-7e33-488a-ac21-51b3afcde979")
 			(effects
 				(font
 					(size 1 1)
@@ -11940,7 +11940,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1b6dbc4e-9805-4852-a5c2-005de4cb0d34")
+			(uuid "fea5d8d9-7b1f-4fac-9d3b-b289a72fbfce")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11952,7 +11952,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "210e93ff-80c6-4bd4-8026-b67e415ea32b")
+			(uuid "3ebe6434-8b64-4453-9412-67e17a2b7583")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20928,7 +20928,7 @@
 		(property "Reference" "C17"
 			(at 2.5 -2.5 0)
 			(layer "F.SilkS")
-			(uuid "d4e3b74e-e93a-4dd3-9d82-49284b158d37")
+			(uuid "55ef8311-1981-4435-80da-8f48063383bc")
 			(effects
 				(font
 					(size 1 1)
@@ -20939,7 +20939,7 @@
 		(property "Value" "100n"
 			(at 2.5 2.5 0)
 			(layer "F.Fab")
-			(uuid "e19195fe-0a8a-41c0-8b6f-794a081ec8ca")
+			(uuid "10f52309-0600-4b22-bab3-f6f1d16a90a9")
 			(effects
 				(font
 					(size 1 1)
@@ -20951,7 +20951,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "abeb1143-07e1-470d-8249-9b7cd5605c26")
+			(uuid "5bbc06fd-e01c-424c-b458-82f46dce2dfa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20963,7 +20963,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5d779954-596f-4a59-8823-c8fe3b2d33ff")
+			(uuid "29ffa915-061f-415e-9605-fd813018f6c1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22904,7 +22904,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "db63b20b-ece8-4ab2-a426-31ec2f52df18")
-		(at 87.82 36.85)
+		(at 76.82 81)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R37"
@@ -23097,7 +23097,7 @@
 		(property "Reference" "R6"
 			(at 5.08 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "1f94ab0d-6752-4767-98d9-9154d028a5cd")
+			(uuid "d94e49a5-21d6-4e52-8342-b07624ca9ef8")
 			(effects
 				(font
 					(size 1 1)
@@ -23108,7 +23108,7 @@
 		(property "Value" "10"
 			(at 5.08 2.37 0)
 			(layer "F.Fab")
-			(uuid "cc7190ea-2aab-46c0-a4e0-d188ab654d6f")
+			(uuid "7a23bf7c-031d-4560-95d0-1cd0fb66c6ca")
 			(effects
 				(font
 					(size 1 1)
@@ -23120,7 +23120,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "08f9a89b-4522-46cc-8b5f-886edf0aae8f")
+			(uuid "ec67fdaf-e9f9-4711-a2dc-d7ad8172979f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23132,7 +23132,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b41e464a-0b15-4d94-b637-44174b939a71")
+			(uuid "f2225ece-8d94-40be-86a2-6175f49621f1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23619,7 +23619,7 @@
 		(property "Reference" "R5"
 			(at 5.08 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "8c473cd3-7d3f-4cfa-8a2c-687cf3d3df3a")
+			(uuid "f3e9ffce-aae4-472b-b35c-46aa4f298c65")
 			(effects
 				(font
 					(size 1 1)
@@ -23630,7 +23630,7 @@
 		(property "Value" "10"
 			(at 5.08 2.37 0)
 			(layer "F.Fab")
-			(uuid "ce5454c5-349b-4927-b78c-45540a339834")
+			(uuid "11ddea2c-bc24-4c2a-ad8e-8e115e9fe528")
 			(effects
 				(font
 					(size 1 1)
@@ -23642,7 +23642,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d2375741-f90e-415c-b9cd-d8445433f909")
+			(uuid "de0ee16e-fcef-4d86-a2cf-c2df798fc6d7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23654,7 +23654,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fec0310f-fcf4-4c39-aa32-ea83a136c55e")
+			(uuid "00356f12-87bd-4782-b61b-ba97744ffd72")
 			(effects
 				(font
 					(size 1.27 1.27)
