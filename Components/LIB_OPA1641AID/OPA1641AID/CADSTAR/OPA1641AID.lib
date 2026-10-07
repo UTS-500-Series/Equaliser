@@ -1,0 +1,18 @@
+.OPA1641AID :1 ;Single Sound-Plus High-Performance, JFET-Input Audio OpAmps
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="NC_1" 2="-IN" 3="+IN" 4="V-" 5="NC_2" 6="OUT" 7="V+" 8="NC_3"
+*MXP 8
+*DFN OPA1641AID
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (OPA1641AID)
+~!Mouser Part Number (595-OPA1641AID)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/OPA1641AID?qs=%2Fqzd9s%252BcLd4V%252BdtTTJDooA%3D%3D)
+~!Arrow Part Number (OPA1641AID)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/opa1641aid/texas-instruments.html?utm_currency=USD&region=europe)
+~!Link Datasheet (http://www.ti.com/lit/gpn/opa1641)
+~!Height (1.75mm)
+~!3D_Model (OPA1641AID)
+OPA1641AID
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'OPA1644AID'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "OPA1644AID" (!) = "", "SOIC127P600X175-14N", "Small Outline Packages", "595-OPA1644AID", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/OPA1644AID?qs=%2Fqzd9s%252BcLd4i%2FOCXbst%2F%252Bw%3D%3D", "OPA1644AID", "https://www.arrow.com/en/products/opa1644aid/texas-instruments?utm_currency=USD&region=nac", "OPA1641/1642/1644 SoundPLUS High-Performance, JFET-Input Audio OpAmps", "http://www.ti.com/lit/gpn/opa1644", "1.75 mm"
+END_PART
+
+END.

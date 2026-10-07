@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=OPA1644AID
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=14
+Version=1.1
+Released=2020-11-30 05:20:55
+Downloaded=2026-10-07 04:39:33
+3D=Y

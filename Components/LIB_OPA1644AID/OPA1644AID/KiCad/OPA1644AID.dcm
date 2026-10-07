@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA1644AID
+D OPA1641/1642/1644 SoundPLUS High-Performance, JFET-Input Audio OpAmps
+K
+F http://www.ti.com/lit/gpn/opa1644
+$ENDCMP
+#
+#End Doc Library

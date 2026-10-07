@@ -1,4 +1,4 @@
-27222599458576350
+27227973499400688
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -74745,9 +74745,23 @@ net tie
 0
 4
 4
+OPA1641AID
+SOIC127P600X175-8N
+D0008A-111
+Integrated Circuit
+0
+8
+8
 OPA1644
 SOP65P640X120-14N
 PW (R-PDSO-G14)
+Integrated Circuit
+0
+14
+14
+OPA1644AID
+SOIC127P600X175-14N
+D (-R-PDSO-G14)
 Integrated Circuit
 0
 14
@@ -99329,6 +99343,13 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
+Sound_waves
+Sound_Waves
+
+
+0
+0
+0
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
